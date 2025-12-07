@@ -15,14 +15,14 @@ author_profile: true
 
 - Additive Fréchet Regression of Random Objects.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changwon Choi†, **Wookyeong Song**†, Hans-Georg Müller and Byeong U. Park. †Equal Contribution
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changwon Choi\*, **Wookyeong Song**\*, Hans-Georg Müller and Byeong U. Park. \*Equal Contribution
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Review*.
 
 
 - Non‑Euclidean Data Analysis With Metric Statistics. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**†, Hang Zhou†, Yidong Zhou† and Hans-Georg Müller. †Equal Contribution
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**\*, Hang Zhou\*, Yidong Zhou\* and Hans-Georg Müller. \*Equal Contribution
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Review*.
 
@@ -45,7 +45,7 @@ author_profile: true
 
 - Development, validation, and comparison of a nomogram based on radiologic findings for predicting malignancy in intraductal papillary mucinous neoplasms of the pancreas: An international multicenter study. [\[paper\]](https://pubmed.ncbi.nlm.nih.gov/33811460/)
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hyeong Seok Kim†, **Wookyeong Song**†, Wonho Choo, ..., Taesung Park and Jin-Young Jang. †co-first author
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hyeong Seok Kim\*, **Wookyeong Song**\*, Wonho Choo, ..., Taesung Park and Jin-Young Jang. \*Equal Contribution
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Journal of Hepato‑Biliary‑Pancreatic Sciences*, (2023).
 
