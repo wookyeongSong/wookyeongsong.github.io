@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Peer-Reviewed Journal Articles
+## Submitted Manuscripts (available upon request)
 
 - Functional linear regression for discretely observed data: from ideal to reality. [\[journal\]](https://academic.oup.com/biomet/article-abstract/110/2/381/6726182)[\[BibTeX\]](https://hg-zh.github.io/files/bmka_flr)[\[code\]](https://github.com/hg-zh/FLR)
 
@@ -58,30 +58,20 @@ author_profile: true
 
 
 
-## Conference Papers
+## Accepted Manuscripts
 
-- PGODE: Towards high-quality system dynamics modeling. [\[ICML24\]](https://openreview.net/forum?id=jrE7geZekq)[\[BibTeX\]](https://hg-zh.github.io/files/PGODE)
+- Inference for Dispersion and Curvature of Random Objects. [\[journal\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2544377)[\[code\]](https://github.com/wookyeongSong/Inference-for-Dispersion-and-Curvature)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Yiyang Gu, Huiyu Jiang, **Hang Zhou**, Jinsheng Huang, Wei Ju, Zhiping Xiao, Ming Zhang, and Yizhou Sun.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song** and Hans-Georg Müller.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *The Forty-first International Conference on Machine Learning*, (2024).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Journal of the American Statistical Association: Theory and Methods*, (2025).
 
-- EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics. [\[NeurIPS24\]](https://openreview.net/forum?id=js5vZtyoIQ&noteId=a1yKzpeLXQ)[\[BibTeX\]](https://hg-zh.github.io/files/EGODE)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Student Paper Award Finalist by ASA Nonparametric Statistics Section, JSM 2024).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jingyang Yuan, Gongbo Sun, Zhiping Xiao, **Hang Zhou**, Xiao Luo, Junyu Luo, Yusheng Zhao, Wei Ju, Ming Zhang.
+- Multi-feature clustering of step data using multivariate functional principal component analysis. [\[journal\]]([https://doi.org/10.1109/TPAMI.2024.3412760](https://link.springer.com/article/10.1007/s00362-023-01467-4))[\[code\]](https://github.com/wookyeongSong/Multifeature-Step/tree/master)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In *The Thirty-eighth Annual Conference on Neural Information Processing Systems*, (2024).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**, Hee-Seok Oh, Ying Kuen Cheung and Yaeji Lim. 
 
-- Future Matters for Present: Towards Effective Physical Simulation over Meshes [\[KDD25\]](https://dl.acm.org/doi/10.1145/3690624.3709340)[\[BibTeX\]](https://hg-zh.github.io/files/FMP)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiao Luo, Junyu Luo, Huiyu Jiang, **Hang Zhou**, Zhiping Xiao, Wei Ju, Carl Yang, Ming Zhang, Yizhou Sun.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACM Conference on Knowledge Discovery and Data Mining, (2025).
-
-## Pre-Preints 
-
-- Optimal transport representations and functional principal components for distribution-valued processes.  [\[preprint\]](https://arxiv.org/abs/2310.20088)[\[BibTeX\]](https://hg-zh.github.io/files/arXiv_OT)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hang Zhou** and Hans-Georg Müller.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Statistical Papers*, (2024).
 
 
