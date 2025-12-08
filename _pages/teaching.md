@@ -14,7 +14,7 @@ author_profile: true
 
 - STA010: Statistical Thinking (Fall 2021, Spring 2022)
 - STA142A: Statistical Learning I (Winter 2022)
-- STA141B: Data \& Web Technologies for Data Analysis (Fall 2022)
+- STA141B: Data & Web Technologies for Data Analysis (Fall 2022)
 - STA206: Statistical Methods for Research I (Fall 2022)
 - STA100: Applied Statistics for Biological Science (Winter 2023)
 - STA013: Elementary Statistics (Spring 2023)
