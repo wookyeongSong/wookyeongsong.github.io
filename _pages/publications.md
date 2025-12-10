@@ -37,6 +37,8 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(Student Paper Award Finalist by ASA Nonparametric Statistics Section, JSM 2024)**.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(Best Presentation Award by Student Paper Competition ASA Nonparametric Statistics Section, JSM 2024)**.
+
 - Multi-feature clustering of step data using multivariate functional principal component analysis. [\[paper\]](https://link.springer.com/article/10.1007/s00362-023-01467-4)[\[code\]](https://github.com/wookyeongSong/Multifeature-Step/tree/master)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**, Hee-Seok Oh, Ying Kuen Cheung and Yaeji Lim. 
