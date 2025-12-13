@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Submitted Manuscripts (available upon request)
 
-- ADOPT: Additive Optimal Transport Regression. [\[preprint\]](https://arxiv.org/abs/2512.08118)
-
+- ADOPT: Additive Optimal Transport Regression.
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song** and Hans-Georg Müller.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Review*.
