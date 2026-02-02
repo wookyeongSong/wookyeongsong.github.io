@@ -15,15 +15,16 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Review*.
 
 
-- Non‑Euclidean Data Analysis With Metric Statistics. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**\*, Hang Zhou\*, Yidong Zhou\* and Hans-Georg Müller. \*Equal Contribution
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Review*.
 
 
 ## Accepted Manuscripts
 
+
+- Non‑Euclidean Data Analysis With Metric Statistics. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**\*, Hang Zhou\*, Yidong Zhou\* and Hans-Georg Müller. \*Equal Contribution
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Harvard Data Science Review,* (2026).
 
 - ADOPT: Additive Optimal Transport Regression.
   
