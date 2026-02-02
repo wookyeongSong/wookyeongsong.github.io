@@ -19,7 +19,6 @@ author_profile: true
 
 ## Accepted Manuscripts
 
-
 - Non‑Euclidean Data Analysis With Metric Statistics. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**\*, Hang Zhou\*, Yidong Zhou\* and Hans-Georg Müller. \*Equal Contribution
