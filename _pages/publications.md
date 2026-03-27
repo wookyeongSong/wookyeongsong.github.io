@@ -23,9 +23,9 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Harvard Data Science Review,* (2026).
 
-- ADOPT: Additive Optimal Transport Regression.
+- ADOPT: Additive Optimal Transport Regression. [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2544377)[\[code\]](https://github.com/wookyeongSong/ADOPT) 
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song** and Hans-Georg Müller. [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2544377)[\[code\]](https://github.com/wookyeongSong/ADOPT) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song** and Hans-Georg Müller. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The 29th International Conference on Artificial Intelligence and Statistics (AISTATS),* (2026).
 
