@@ -6,13 +6,11 @@ author_profile: true
 ---
 ## Submitted Manuscripts (available upon request)
 
-
-
 - Additive Fréchet Regression of Random Objects.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changwon Choi\*, **Wookyeong Song**\*, Hans-Georg Müller and Byeong U. Park. \*Equal Contribution
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Review*.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Major Revision, The Annals of Statistics.*
 
 
 
