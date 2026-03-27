@@ -17,7 +17,7 @@ author_profile: true
 
 ## Accepted Manuscripts
 
-- Non‑Euclidean Data Analysis With Metric Statistics. 
+- Non‑Euclidean Data Analysis With Metric Statistics. [\[paper\]](https://hdsr.mitpress.mit.edu/pub/fi0cphkz/release/1)[\[code\]](https://github.com/wookyeongSong/HDSR_Metric_Statistics)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**\*, Hang Zhou\*, Yidong Zhou\* and Hans-Georg Müller. \*Equal Contribution
 
@@ -25,7 +25,7 @@ author_profile: true
 
 - ADOPT: Additive Optimal Transport Regression.
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song** and Hans-Georg Müller.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song** and Hans-Georg Müller. [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2544377)[\[code\]](https://github.com/wookyeongSong/ADOPT) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The 29th International Conference on Artificial Intelligence and Statistics (AISTATS),* (2026).
 
