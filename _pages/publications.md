@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Submitted Manuscripts (available upon request)
+## Submitted Manuscripts
 
 - Inference for Fréchet Regression. [\[arXiv\]](https://arxiv.org/abs/2605.19519)
 
