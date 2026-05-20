@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Submitted Manuscripts (available upon request)
 
-- Inference for Fréchet Regression. [\[paper\]](https://arxiv.org/pdf/2605.19519)
+- Inference for Fréchet Regression. [\[arXiv\]](https://arxiv.org/abs/2605.19519)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**, Paromita Dubey, Hans-Georg Müller and Alexander Petersen. 
 
@@ -27,7 +27,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Harvard Data Science Review,* (2026).
 
-- ADOPT: Additive Optimal Transport Regression. [\[paper\]](/files/song26.pdf)[\[code\]](https://github.com/wookyeongSong/ADOPT) 
+- ADOPT: Additive Optimal Transport Regression. [\[paper\]](https://openreview.net/pdf/8c8755f0566f61a51408c904f576e9b138248707.pdf)[\[code\]](https://github.com/wookyeongSong/ADOPT) 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song** and Hans-Georg Müller. 
 
