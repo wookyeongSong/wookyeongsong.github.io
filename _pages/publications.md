@@ -10,11 +10,13 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**, Paromita Dubey, Hans-Georg Müller and Alexander Petersen. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Revision.*
+
 - Additive Fréchet Regression of Random Objects.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changwon Choi\*, **Wookyeong Song**\*, Hans-Georg Müller and Byeong U. Park. \*Equal Contribution
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Major Revision, The Annals of Statistics.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Revision.*
 
 
 
