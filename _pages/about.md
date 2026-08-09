@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am Wookyeong Song, a Postdoctoral Research Associate in the [Brown Data Science Institute](https://dsi.brown.edu/people/wookyeong-song) and [Department of Biostatistics, Brown University](https://sph.brown.edu/), mentored by Professor [Larry Han](https://larrylehan.github.io/).
+Welcome to my homepage! I am Wookyeong Song, a Postdoctoral Research Associate in the [Brown Data Science Institute](https://dsi.brown.edu/people/wookyeong-song) and [Department of Biostatistics, Brown University](https://sph.brown.edu/), working with Professor [Larry Han](https://larrylehan.github.io/).
 I received my PhD in the [Department of Statistics](https://statistics.ucdavis.edu/) 
 at the [University of California, Davis](https://www.ucdavis.edu/), where I was fortunate to be advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/).
 Before that, I earned my B.S. in Mathematical science and Statistics from [Seoul National University](https://en.snu.ac.kr/). 
