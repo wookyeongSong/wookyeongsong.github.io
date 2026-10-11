@@ -6,15 +6,15 @@ author_profile: true
 ---
 ## Submitted Manuscripts
 
+- Fréchet Variance Process for Random Objects.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muqing Cui, **Wookyeong Song**, and Hans-Georg Müller. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Submitted.*
+
 - Inference for Fréchet Regression. [\[arXiv\]](https://arxiv.org/abs/2605.19519)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**, Paromita Dubey, Hans-Georg Müller and Alexander Petersen. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Revision.*
-
-- Additive Fréchet Regression of Random Objects.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changwon Choi\*, **Wookyeong Song**\*, Hans-Georg Müller and Byeong U. Park. \*Equal Contribution
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Under Revision.*
 
@@ -22,6 +22,14 @@ author_profile: true
 
 
 ## Accepted Manuscripts
+
+- Additive Fréchet Regression of Random Objects. [\[paper\]](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changwon Choi\*, **Wookyeong Song**\*, Hans-Georg Müller and Byeong U. Park. \*Equal Contribution
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Annals of Statistics,* (2026).
+
+
 
 - Non‑Euclidean Data Analysis With Metric Statistics. [\[paper\]](https://hdsr.mitpress.mit.edu/pub/fi0cphkz/release/1)[\[code\]](https://github.com/wookyeongSong/HDSR_Metric_Statistics)
 
