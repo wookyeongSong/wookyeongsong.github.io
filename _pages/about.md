@@ -19,5 +19,5 @@ I received my PhD in the [Department of Statistics](https://statistics.ucdavis.e
 at the University of California, Davis, where I was fortunate to be advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/).
 Before that, I earned my B.S. in Mathematical science and Statistics from [Seoul National University](https://en.snu.ac.kr/). 
 
-I am always open to collaboration and excited to explore new research directions. Please feel free to get in touch at wookyeong_song at brown dot edu
+Contact: wookyeong_song at brown dot edu
 
