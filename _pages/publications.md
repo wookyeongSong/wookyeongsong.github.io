@@ -32,7 +32,7 @@ author_profile: true
 
 - Non‑Euclidean Data Analysis With Metric Statistics. [\[paper\]](https://hdsr.mitpress.mit.edu/pub/fi0cphkz/release/1)[\[code\]](https://github.com/wookyeongSong/HDSR_Metric_Statistics)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**\*, Hang Zhou\*, Yidong Zhou\* and Hans-Georg Müller. \*Equal Contribution
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wookyeong Song**\*, Hang Zhou\*, Yidong Zhou\* and Hans-Georg Müller. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Harvard Data Science Review,* (2026).
 
@@ -60,7 +60,7 @@ author_profile: true
 
 - Development, validation, and comparison of a nomogram based on radiologic findings for predicting malignancy in intraductal papillary mucinous neoplasms of the pancreas: An international multicenter study. [\[paper\]](https://pubmed.ncbi.nlm.nih.gov/33811460/)
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hyeong Seok Kim\*, **Wookyeong Song**\*, Wonho Choo, ..., Taesung Park and Jin-Young Jang. \*Equal Contribution
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hyeong Seok Kim\*, **Wookyeong Song**\*, Wonho Choo, ..., Taesung Park and Jin-Young Jang. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Journal of Hepato‑Biliary‑Pancreatic Sciences*, (2023).
 
