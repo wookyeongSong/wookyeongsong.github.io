@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am Wookyeong Song, a Postdoctoral Research Associate in the [Brown Data Science Institute](https://dsi.brown.edu/people/wookyeong-song) and [Department of Biostatistics, Brown University](https://sph.brown.edu/), working with Professor [Larry Han](https://larrylehan.github.io/).
+I am a Postdoctoral Research Associate in the [Brown Data Science Institute](https://dsi.brown.edu/people/wookyeong-song) and [Department of Biostatistics, Brown University](https://facultyaffairs.sph.brown.edu/postdocs/research-associates), working with Professor [Larry Han](https://larrylehan.github.io/). 
+My research interests broadly lie in statistical theory and methodology, data science, and artificial intelligence for modern datasets with complex intrinsic metric geometry, with applications to real-world problems in public health and social sciences. 
+I am interested in statistical inference and trustworthy decision-making with calibration that respect the underlying structure of the observations. 
+My current work focuses on non-Euclidean data analysis, policy learning, modern causal inference and data integration. 
+
+In Fall 2026, I am a Visiting Scholar at the [Institute for Mathematical and Statistical Innovation, the University of Chicago](https://www.imsi.institute/) for their [Connectomics
+Non-Euclidean Data Analysis for Brain Structure and Function](https://www.imsi.institute/activities/connectomics-non-euclidean-data-analysis-for-brain-structure-and-function/).
+
 I received my PhD in the [Department of Statistics](https://statistics.ucdavis.edu/) 
 at the [University of California, Davis](https://www.ucdavis.edu/), where I was fortunate to be advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/).
 Before that, I earned my B.S. in Mathematical science and Statistics from [Seoul National University](https://en.snu.ac.kr/). 
 
-I am broadly interested in statistics and data science for modern datasets with complex intrinsic structure. My current research focuses on developing geometry-aware statistical methods for random objects that take values in general metric spaces, and on applying these methods to real-world problems, particularly in biomedical and neuroscience domains.
+I am always open to collaboration and excited to explore new research directions. Please feel free to get in touch at wookyeong_song at brown dot edu
 
-I am always open to collaboration and excited to explore new research directions. Please feel free to get in touch, if you are interested in working together.
-
-
-- Contact: wookyeong_song at brown dot edu

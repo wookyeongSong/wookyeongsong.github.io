@@ -20,7 +20,6 @@ author_profile: true
 
 
 
-
 ## Accepted Manuscripts
 
 - Additive Fréchet Regression of Random Objects. [\[paper\]](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/)
