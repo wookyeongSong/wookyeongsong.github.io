@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 I am a Postdoctoral Research Associate in the [Brown Data Science Institute](https://dsi.brown.edu/people/wookyeong-song) and [Department of Biostatistics, Brown University](https://facultyaffairs.sph.brown.edu/postdocs/research-associates), working with Professor [Larry Han](https://larrylehan.github.io/). 
-My research interests broadly lie in statistical theory and methodology, data science, and artificial intelligence for modern datasets with complex intrinsic metric geometry, with applications to real-world problems in public health and social sciences. 
-I am interested in statistical inference and trustworthy decision-making with calibration that respect the underlying structure of the observations. 
-My current work focuses on non-Euclidean data analysis, policy learning, modern causal inference and data integration. 
+My research interests broadly lie in statistical methodology, data science, and artificial intelligence for modern datasets with complex intrinsic metric geometry, with applications in public health and social sciences. 
+My current work focuses on object data analysis in non-Euclidean metric spaces, safe policy learning with calibration, modern causal inference and data integration. 
 
-In Fall 2026, I am a Visiting Scholar at the [Institute for Mathematical and Statistical Innovation, the University of Chicago](https://www.imsi.institute/) for their [Connectomics
+In Fall 2026, I am a Visiting Scholar at the [Institute for Mathematical and Statistical Innovation, the University of Chicago](https://www.imsi.institute/) for their [Connectomics:
 Non-Euclidean Data Analysis for Brain Structure and Function](https://www.imsi.institute/activities/connectomics-non-euclidean-data-analysis-for-brain-structure-and-function/).
 
 I received my PhD in the [Department of Statistics](https://statistics.ucdavis.edu/) 
