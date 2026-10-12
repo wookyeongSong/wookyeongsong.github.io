@@ -22,7 +22,7 @@ author_profile: true
 
 ## Accepted Manuscripts
 
-- Additive Fréchet Regression of Random Objects. [\[paper\]](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/)
+- Additive Fréchet Regression for Random Objects. [\[paper\]](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changwon Choi\*, **Wookyeong Song**\*, Hans-Georg Müller and Byeong U. Park. \*Equal Contribution
 
